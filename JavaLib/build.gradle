@@ -1,0 +1,13 @@
+
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
+
+mainClassName = 'com.bootcamp.Exercise1'
